@@ -11,6 +11,3 @@ his or her Dietary Reference Intake.
 #Possible extra features
 - tracking diet over longer periods of time
 - possible further advice on lifestyle
-- 
--
--
